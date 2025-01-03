@@ -1,4 +1,4 @@
-package com.zachary570.backend;
+package com.zachary.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
